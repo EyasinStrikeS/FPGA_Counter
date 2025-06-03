@@ -41,5 +41,3 @@ gtkwave wave.vcd
 - GTKWave: http://gtkwave.sourceforge.net/
 - EDA Playground: https://www.edaplayground.com/
 
----
-MIT License. Created for learning purposes.
